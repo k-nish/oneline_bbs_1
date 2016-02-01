@@ -67,11 +67,6 @@
     }
 
     $posts[]=$rec;
-    // echo $rec['id'];
-    // echo $rec['nickname'];
-    // echo $rec['comment'];
-    // echo $rec['created'];
-
 
   }
     //データベースから切断
